@@ -22,7 +22,7 @@ require (
 	github.com/powerman/check v1.6.0
 	golang.org/x/crypto v0.0.0-20220331220935-ae2d96664a29
 	golang.org/x/net v0.0.0-20220403103023-749bd193bc2b
-	golang.org/x/sys v0.0.0-20220405052023-b1e9470b6e64
+	golang.org/x/sys v0.1.0
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 )
 
